@@ -10,3 +10,5 @@ Commit 3
 Test commit from STRATAGEM to GITHUB
 
 Stryngfellow David John Lloyd 2
+
+TEST EDIT FROM INTELLIJ
