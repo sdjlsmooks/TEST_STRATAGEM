@@ -4,3 +4,5 @@ TEST STRATAGEM GIT REPOSITORY
 Stryngfellow David John Lloyd
 
 Test Commit.
+
+Commit 3
